@@ -1,7 +1,5 @@
 #EXTM3U
-https://t.me/FerdosLiveTv
-#EXT-X-SESSION-DATA:DATA-ID="token",VALUE="https://t.me/FerdosLiveTv"
-
+    <a href="https://t.me/FerdosLiveTv">Open Playlist</a
 #EXTINF:3600,Movie 1
 http://example.com/movie1.mp4
 
