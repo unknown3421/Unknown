@@ -1,0 +1,12 @@
+#EXTM3U
+
+#EXT-X-SESSION-DATA:DATA-ID="token",VALUE="https://t.me/FerdosLiveTv"
+
+#EXTINF:3600,Movie 1
+http://example.com/movie1.mp4
+
+#EXTINF:2400,TV Show 1
+http://example.com/tvshow1.mp4
+
+#EXTINF:1800,Music 1
+http://example.com/music1.mp3
